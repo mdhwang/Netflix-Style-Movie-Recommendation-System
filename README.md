@@ -84,6 +84,8 @@ Summart of models below:
 
 ![precision_vs_recall](images/precision_vs_recall.png)
 
+In general, as k increases, the recall of the model increases by a relatively large amount with only a small loss in precision.
 
+Item based collaborative filerting has the greatest precision while User based collaborative filtering had the greatest recall amongst all the models.
 
 
