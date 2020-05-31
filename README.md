@@ -70,3 +70,20 @@ We evaluate if a recommendation is a hit or not, or more technically "relevant",
 
 This allows us to make a binary classification to help evaluate the precision and recall of our models.
 
+Precision is calculated as True Positives / (True Positives + False Positives)
+
+or can be read as "When my model classifies something as true, how often is it actually true?"
+
+Recall is calculated as True Positives / (True Positives + False Negatives)
+
+or can be read as "What percentage of all the true values did my model capture?"
+
+Precision can be seen as a measure of exactness or quality, whereas recall is a measure of completeness.
+
+Summart of models below:
+
+![precision_vs_recall](images/precision_vs_recall.png)
+
+
+
+
